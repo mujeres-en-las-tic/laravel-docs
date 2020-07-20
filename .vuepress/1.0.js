@@ -6,6 +6,7 @@ module.exports = [
             'instalacion',
             'configuracion',
             'estructura-de-directorios',
+            'tecnologias',
         ]),
     },
     {
