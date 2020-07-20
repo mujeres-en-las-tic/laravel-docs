@@ -1,0 +1,18 @@
+{
+    "dependencies": {
+        "vuepress": "^1.2.0",
+        "vuepress-plugin-container": "^2.1.0",
+        "vuepress-plugin-sitemap": "^2.3.0"
+    },
+    "scripts": {
+        "docs:build": "vuepress build",
+        "docs:dev": "vuepress dev"
+    },
+    "devDependencies": {
+        "@vuepress/plugin-back-to-top": "^1.2.0",
+        "@vuepress/plugin-google-analytics": "^1.2.0",
+        "@vuepress/plugin-nprogress": "^1.2.0",
+        "@vuepress/plugin-pwa": "^1.2.0",
+        "vuepress-plugin-medium-zoom": "^1.1.8"
+    }
+}
