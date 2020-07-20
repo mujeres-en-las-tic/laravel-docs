@@ -29,7 +29,7 @@ module.exports = {
     [
       "sitemap",
       {
-        hostname: "",
+        hostname: "laravel-doc.netlify.app",
       },
     ],
     [
