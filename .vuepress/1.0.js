@@ -51,7 +51,15 @@ module.exports = [
             'factory',
             'seeder'
         ]),
+    },
+    {
+        title: 'Control de Versiones',
+        collapsable: false,
+        children: prefix('control-de-versiones', [
+            '',
+        ]),
     }
+
 ];
 
 function prefix(prefix, children) {
