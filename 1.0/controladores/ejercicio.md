@@ -2,7 +2,7 @@
 pageClass: no-toc
 ---
 
-# Ejercicio
+# Ejercicio paso #3
 
 Actualizaremos el controlador de productos creado en en ejercicio de los `Modelos`
 

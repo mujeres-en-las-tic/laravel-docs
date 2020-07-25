@@ -2,7 +2,7 @@
 pageClass: no-toc
 ---
 
-# Ejercicio
+# Ejercicio paso #4
 
 ## Plantilla base
 Archivo `resources\view\layout.blade.php`
@@ -87,6 +87,22 @@ Archivo `resources\view\productos\index.blade.php`
 @endsection
 ```
 
+## Página Crear Producto
+
+Archivo `resources\view\productos\create.blade.php`
+
+```php
+@extends('layout')
+
+@section('title')
+    Crear Producto
+@endsection
+
+@section('content')
+  <h1>Crear Producto</h1>  
+@endsection
+ ```
+
 ## Página Detalles de Producto
 
 Archivo `resources\view\productos\show.blade.php`
@@ -103,7 +119,7 @@ Archivo `resources\view\productos\show.blade.php`
 @endsection
 ```
 
-## Página Editar de Producto
+## Página Editar Producto
 
 Archivo `resources\view\productos\edit.blade.php`
 

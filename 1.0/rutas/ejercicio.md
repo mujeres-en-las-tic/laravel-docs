@@ -2,8 +2,7 @@
 pageClass: no-toc
 ---
 
-
-# Ejercicio
+# Ejercicio paso #2
 
 Para nuestro ejercicio, escribiremos las siguientes rutas
 

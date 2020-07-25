@@ -1,1 +1,5 @@
+---
+pageClass: no-toc
+---
+
 # Seeder
