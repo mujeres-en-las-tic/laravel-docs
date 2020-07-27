@@ -44,6 +44,11 @@ module.exports = [
     children: prefix("bases-de-datos", ["", "factory", "seeder", "ejercicio"]),
   },
   {
+    title: "Tutoriales",
+    collapsable: true,
+    children: prefix("tutoriales", ["", 'enviar-correo', 'autentificacion']),
+  },
+  {
     title: "Control de Versiones",
     collapsable: true,
     children: prefix("control-de-versiones", [
