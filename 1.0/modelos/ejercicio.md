@@ -19,7 +19,7 @@ Recuerda que debes estar en la carpeta de tu proyecto Laravel, para poder utiliz
 
 ## Asignación masiva
 
-La asignación masiva no ayuda a usar el método `create` para insertar un nuevo registro en la base de datos, y lo activaremos con: `protected $guarded = [];`
+La asignación masiva nos ayuda a usar el método `create` para insertar un nuevo registro en la base de datos, y lo activaremos con: `protected $guarded = [];`
 
 Archivo ubicado en: `App\Product.php`
 
